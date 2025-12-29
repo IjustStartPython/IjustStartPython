@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est IjustStartPython
+#  Salut, moi c’est IjustStartPython
 
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python&logoColor=white)
 ![Cybersecurity Student](https://img.shields.io/badge/Cybersecurity-Student-darkred?logo=hackthebox&logoColor=white)
@@ -13,21 +13,21 @@ This GitHub is used to **document my learning journey**, share projects, and tra
 
 ---
 
-## 🎯 Objectifs
-- 🔐 Me spécialiser progressivement en **cybersécurité / pentesting**
-- 🧠 Comprendre comment les systèmes fonctionnent (et pourquoi)
-- 💼 Trouver une **alternance** dans le domaine de la cybersécurité
-- 🛠️ Développer des projets pratiques et utiles
-- 📚 Apprendre en continu et structurer mes connaissances
+##  Objectifs
+-  Me spécialiser progressivement en **cybersécurité / pentesting**
+-  Comprendre comment les systèmes fonctionnent (et pourquoi)
+-  Trouver une **alternance** dans le domaine de la cybersécurité
+-  Développer des projets pratiques et utiles
+-  Apprendre en continu et structurer mes connaissances
 
 ---
 
-## 🧪 Compétences & apprentissage
-- 🐍 **Python** (débutant, apprentissage actif)
-- 🖥️ Programmation orientée logique et compréhension
-- 🔐 Bases de la sécurité informatique
-- 🧰 Git & GitHub
-- 🧠 Résolution de problèmes
+##  Compétences & apprentissage
+-  **Python** (débutant, apprentissage actif)
+-  Programmation orientée logique et compréhension
+-  Bases de la sécurité informatique
+-  Git & GitHub
+-  Résolution de problèmes
 
 > Je privilégie la compréhension du fonctionnement interne plutôt que le simple résultat.
 
@@ -41,9 +41,9 @@ This GitHub is used to **document my learning journey**, share projects, and tra
 
 ---
 
-## 🚀 Projets
+##  Projets
 
-### 🔑 `pswd` — Générateur de mots de passe sécurisés
+###  `pswd` — Générateur de mots de passe sécurisés
 Projet développé en **Python** avec **Tkinter**.
 
 **Objectifs du projet :**
@@ -55,10 +55,10 @@ Projet développé en **Python** avec **Tkinter**.
 
 ---
 
-### 🧪 Nouveau projet (en cours)
+###  Nouveau projet (en cours)
 Un nouveau projet est actuellement en développement.
 
-🎯 Axes principaux :
+ Axes principaux :
 - apprentissage
 - logique
 - sécurité
@@ -67,15 +67,15 @@ Un nouveau projet est actuellement en développement.
 
 ---
 
-## 🧠 Centres d’intérêt
-- 🔐 Cybersécurité et compréhension des systèmes
-- 🖥️ Montage, démontage, réparation et nettoyage de PC
-- 🔍 Analyse de failles et logique de sécurité
-- 🧩 Résolution de problèmes techniques
+##  Centres d’intérêt
+-  Cybersécurité et compréhension des systèmes
+-  Montage, démontage, réparation et nettoyage de PC
+-  Analyse de failles et logique de sécurité
+-  Résolution de problèmes techniques
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 - Certifications disponibles sur **Credly**
 (en lien avec mon parcours et mon apprentissage en cybersécurité)
 
